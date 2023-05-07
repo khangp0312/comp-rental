@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<guests>
+    <guest>
+        <id>1</id>
+        <name>Lê Văn A</name>
+        <point>1</point>
+    </guest>
+    <guest>
+        <id>2</id>
+        <name>Nguyễn Văn B</name>
+        <point>0</point>
+    </guest>
+</guests>

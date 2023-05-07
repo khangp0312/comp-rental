@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <id>1</id>
+        <name>MAY1</name>
+        <availability>false</availability>
+    </computer>
+    <computer>
+        <id>2</id>
+        <name>MAY2</name>
+        <availability>true</availability>
+    </computer>
+</computers>

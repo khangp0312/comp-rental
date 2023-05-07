@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<infos>
+    <info>
+        <id>1</id>
+        <computer>
+            <id>1</id>
+            <name>MAY1</name>
+            <availability>false</availability>
+        </computer>
+        <guest>
+            <id>1</id>
+            <name>Lê Văn A</name>
+            <point>1</point>
+        </guest>
+        <rentaltime>09:00:00</rentaltime>
+    </info>
+</infos>
